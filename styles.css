@@ -1,0 +1,13 @@
+ul li {
+    background: url('rocket.png') no-repeat left center;
+    padding: 5px 10px 5px 65px;
+    list-style: none;
+    margin: 0;
+    vertical-align: middle;
+}
+.rocket{
+    padding-left: 0px;
+}
+body{
+    background-color: aqua;
+}
